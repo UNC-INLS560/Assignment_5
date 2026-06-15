@@ -98,7 +98,7 @@ More specifically, this example console output shows what the output should look
 ```
 Please enter the name of the input data file: grade_input.txt
 Please enter the name of the output data file: grade_output.txt
-Would you like to curve the grades? (Y/N) n
+Would you like to curve the grades? (Y/N) N
 All data was successfully processed and saved to the requested output file.
 ```
 
@@ -115,7 +115,7 @@ Finally, here is an example of what the console output should look like when an 
 ```
 Please enter the name of the input data file: grade_input_with_bad_student_type.txt
 Please enter the name of the output data file: grade_output.txt
-Would you like to curve the grades? (Y/N) n
+Would you like to curve the grades? (Y/N) N
 Unknown student category detected (HIGHSCHOOL).
 Error occurred while determining letter grade. Aborting.
 ```
